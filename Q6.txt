@@ -1,0 +1,4 @@
+QUESTÃO 6
+
+Alternativa correta: "(X) Fila, pois, em uma estrutura de fila os incidentes são enfileirados de modo que o primeiro incidente
+que chegar será o primeiro a sair da fila para ser atendido."

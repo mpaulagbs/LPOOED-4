@@ -1,0 +1,4 @@
+QUESTÃO 5
+
+Alternativa correta: "(X) as pilhas são estruturas que recuperam os dados na ordem reversa em que eles foram
+armazenados."
